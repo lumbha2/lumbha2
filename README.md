@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm lumbha2 👋
 
-<!--
-**lumbha2/lumbha2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer working across backend services and web UIs — with a focus on messaging and distributed systems.
 
-Here are some ideas to get you started:
+### 🔧 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Java, TypeScript, JavaScript
+- **Backend & Messaging:** Apache Kafka, ActiveMQ / AMQ, high-availability clustering
+- **Frontend:** React, Next.js
+- **Infra & Tooling:** Kubernetes, Docker, Maven
+
+### 📌 Projects
+
+- **[console](https://github.com/lumbha2/console)** — a management console for messaging/streaming systems (Java backend + Next.js UI).
+
+### 📫 Get in touch
+
+- 📧 [lumbha2@gmail.com](mailto:lumbha2@gmail.com)
+- 💼 [LinkedIn](https://in.linkedin.com/in/lumbha)
